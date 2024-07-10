@@ -19,9 +19,9 @@ cd fulladder
 (fulladder as example)
 
 **Makefile Targets:**
-  **compile**: compile dut along with tb and create simv
-  **run**: execute simv
-  **verify**: compare output.txt with golden.txt to make sure simulation result
-  **all**: compile, run and verify
-  **waveform:** open Verdi to view the waveform
-  **clean**: clean files generated in this simulation
+  **compile**: compile dut along with tb and create simv  
+  **run**: execute simv  
+  **verify**: compare output.txt with golden.txt to make sure simulation result  
+  **all**: compile, run and verify  
+  **waveform:** open Verdi to view the waveform  
+  **clean**: clean files generated in this simulation  
