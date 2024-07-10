@@ -9,7 +9,7 @@ Also, this repo provide basic testbench.
 ## Clone the repo
 
 ```
-git clone http://140.96.128.50:3000/Yutung/RTL_study.git
+git clone https://github.com/cheng0560011/RTL_study.git
 ```
 
 ## Enter the project for testing
